@@ -1,0 +1,2 @@
+[0718/094249.090:ERROR:process_info.cc(617)] range at 0x0, size 0x28 fully unreadable
+[0718/094250.917:WARNING:minidump_to_upload_parameters.cc(36)] duplicate key guid, discarding value 36ae9efb-bacf-4388-a0f3-224e8a277d65
